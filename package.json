@@ -1,0 +1,23 @@
+{
+  "name": "mmm-hive",
+  "version": "1.0.0",
+  "description": "A module for the [MagicMirror project](https://github.com/MichMich/MagicMirror) to display inside / outside temperature from your Hive receiver.",
+  "main": "MMM-Hive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/np27/MMM-Hive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/np27/MMM-Hive/issues"
+  },
+  "homepage": "https://github.com/np27/MMM-Hive#readme",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^6.3.21"
+  }
+}
