@@ -352,7 +352,7 @@ Module.register('MMM-Hive',{
 
 		table.appendChild(temperatureRow);
 		table.appendChild(targetTemperatureRow);
-		//table.appendChild(hotWaterRow);
+		table.appendChild(hotWaterRow);
 		//table.appendChild(boostRow);
 				
 		return table;
